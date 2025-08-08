@@ -3,7 +3,7 @@
 ## Tools and Requirements
 
 * **Language**: C++
-* **Standard**: C++23 (compiled on server)
+* **Standard**: C++23
 * **Testing**: The implemented class must be covered with tests.
 
 ---
